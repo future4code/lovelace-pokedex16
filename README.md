@@ -2,9 +2,9 @@
 
 Nome dos integrantes:
 
-- Pessoa 1
-- Pessoa 2
-- Pessoa 3
+- Ingrid Lima da Silva
+- Lucas Matheus Fernandes Gonçalves
+- Murilo Sousa da Silva
 
 Link do Surge: www.link.com.br
 
