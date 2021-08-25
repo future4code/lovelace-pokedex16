@@ -1,10 +1,13 @@
+import React from "react";
 import HomePage from "./pages/HomePage";
 import PokedexPage from "./pages/PokedexPage";
 import DetailsPage from "./pages/DetailsPage";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 
+
 const App = () => {
   return (
+    
     <BrowserRouter>
       <div>
         <Switch>
@@ -20,7 +23,11 @@ const App = () => {
         </Switch>
       </div>
     </BrowserRouter>
+    
+
+   
   );
+  
 };
 
 export default App;
