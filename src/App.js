@@ -1,7 +1,7 @@
 import React from "react";
 import HomePage from "./pages/HomePage";
 import PokedexPage from "./pages/PokedexPage";
-import DetailsPage from "./pages/DetailsPage";
+import DetailsPage from "./pages/DetailsPage/DetailsPage";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 
