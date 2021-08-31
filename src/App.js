@@ -1,33 +1,22 @@
 import React from "react";
-import HomePage from "./pages/HomePage";
-import PokedexPage from "./pages/PokedexPage";
-import DetailsPage from "./pages/DetailsPage/DetailsPage";
-import { BrowserRouter, Switch, Route } from "react-router-dom";
+import GlobalStates from "./Global/GlobalStates";
+import Router from "./Router/Router"
+
 
 
 const App = () => {
   return (
+   <GlobalStates>
+    <Router/>
+    </GlobalStates>
+  )
+
     
-    <BrowserRouter>
-      <div>
-        <Switch>
-          <Route exact path="/">
-            <HomePage />
-          </Route>
-          <Route exact path="/pokedex">
-            <PokedexPage />
-          </Route>
-          <Route exact path="/pokemon-detail/">
-            <DetailsPage />
-          </Route>
-        </Switch>
-      </div>
-    </BrowserRouter>
-    
+   
 
    
-  );
+
   
-};
+}
 
 export default App;

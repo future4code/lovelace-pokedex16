@@ -6,14 +6,10 @@ Nome dos integrantes:
 - Lucas Matheus Fernandes Gonçalves
 - Murilo Sousa da Silva
 
-Link do Surge: www.link.com.br
+Link do Surge: calculating-plants.surge.sh
 
 O que funciona:
 
-- Item 1
-- Item 2
+Site totalmente funcional, com todos os botões funcionando e as informações aparencendo em tela
 
-O que não funciona:
 
-- Item 3
-- Item 4
