@@ -1,4 +1,4 @@
-# POKEDEX
+# POKÉDEX
 
 Nome dos integrantes:
 
